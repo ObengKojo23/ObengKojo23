@@ -2,7 +2,7 @@
 
 ##  🙋‍♂️ About me:
 I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training 💻. Data storytelling is my favorite because it allows me to bring insights to life and create meaningful impact. <br>
-When I’m not analyzing data, learning new technologies, or building dreams, you’ll find me watching football, playing Scrabble, reading, designing websites, or spending quality time with my amazing wife, Ahenkan ❤️.
+When I’m not analyzing data, learning new technologies, or building dreams, you’ll find me watching football, playing Scrabble, reading, volunteering, or spending quality time with my amazing wife, Ahenkan ❤️.
 
 ##  🔭 I'm currently working:
 - My free Data Training YouTube channel [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ObengKojo)
@@ -10,7 +10,7 @@ When I’m not analyzing data, learning new technologies, or building dreams, yo
 - An NLP Machine Learning Project that will be shared soon.
 
 ## 🌱 I’m currently learning
-- Data Science and Data Engineering Skills.
+- Data Science and Data Engineering.
 - Spanish Language
 
 ## 🌐 Connect with me:
@@ -23,7 +23,7 @@ When I’m not analyzing data, learning new technologies, or building dreams, yo
 ![](https://nirzak-streak-stats.vercel.app/?user=ObengKojo23&theme=dark&hide_border=false)<br/>
 
 
-## 💰 You can support me by Donating
+## 💰 You can support me by donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/obengkojo) 
 
 
