@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Emmanuel Obeng Afari
 
 ##  🙋‍♂️ About me:
-I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training 💻. Data storytelling is my favorite because it allows me to bring insights to life and create meaningful impact. <br>
+I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training. Data storytelling is my favorite since it allows me to bring insights to life and create meaningful impact. <br>
 When I’m not analyzing data, learning new technologies, or building dreams, you’ll find me watching football, playing Scrabble, reading, volunteering, or spending quality time with my amazing wife, Ahenkan ❤️.
 
 ##  🔭 I'm currently working:
