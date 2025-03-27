@@ -1,4 +1,4 @@
-# Data Analyst | BI Developer | DBA | IT Trainer | Jr Data Scientist 
+## Data Analyst | BI Developer | DBA | IT Trainer | Jr Data Scientist 
 
 ##  🙋‍♂️ About me:
 I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training. Data storytelling is my favorite since it allows me to bring insights to life and create meaningful impact. <br> 
@@ -8,7 +8,7 @@ This profile showcases my projects in Database Management, Python, SQL, Machine 
 When I’m not analyzing data, learning new technologies, or building dreams, you’ll find me watching football, playing Scrabble, reading, volunteering, or spending quality time with my amazing wife, Ahenkan ❤️.
 
 
-## 💻 Technical Skills:
+## 🛠️ Techinical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
