@@ -1,6 +1,4 @@
-# Hi there 👋, my name is Emmanuel Obeng Afari
-
-## Data Analyst | Business Intelligence Developer | DBA | IT Trainer | Jr Data Scientist 
+# Data Analyst | Business Intelligence Developer | DBA | IT Trainer | Jr Data Scientist 
 
 ##  🙋‍♂️ About me:
 I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training. Data storytelling is my favorite since it allows me to bring insights to life and create meaningful impact. <br> 
