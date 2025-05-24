@@ -1,9 +1,7 @@
 ## Backend IT Support Specialist | Data Analyst | BI Developer | IT Trainer 
 
 ##  🙋‍♂️ About me:
-I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training. Data storytelling is my favorite since it allows me to bring insights to life and create meaningful impact. <br> 
-
-This profile showcases my projects in Database Management, Python, SQL, Machine Learning, and Data Analytics, demonstrating my technical expertise and ability to apply data concepts to real-world problems. <br>
+I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Learning & Development systems, IT Support, and empowering others through free IT training. I find the greatest fulfilment in bridging technology and people, especially when utilising my expertise for system optimisation. <br> 
 
 When I’m not supporting systems, enabling learning, or driving transformation, I enjoy watching football, playing Scrabble, reading, volunteering, and spending quality time with my amazing wife, Ahenkan ❤️.
 
@@ -44,6 +42,7 @@ When I’m not supporting systems, enabling learning, or driving transformation,
 ##  🔭 I'm currently working:
 - My free data analysis training [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ObengKojo) channel.
 - A website development volunteering project for an NGO in Canada. [wedoitallfoundation.org](https://wedoitallfoundation.org)
+- A website development project for a client in Japan. [chrislanguageacademy.com](https://chrislanguageacademy.com)
 - An NLP Machine Learning Project that will be shared soon.
   
 
