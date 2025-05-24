@@ -1,26 +1,31 @@
-## Data Analyst | BI Developer | DBA | IT Trainer | Jr Data Scientist 
+## Backend IT Support Specialist | Data Analyst | BI Developer | IT Trainer 
 
 ##  🙋‍♂️ About me:
 I’m originally from Ghana (West Africa) and currently living in the UK. I’m passionate about Data, IT Support, and offering Free IT Training. Data storytelling is my favorite since it allows me to bring insights to life and create meaningful impact. <br> 
 
 This profile showcases my projects in Database Management, Python, SQL, Machine Learning, and Data Analytics, demonstrating my technical expertise and ability to apply data concepts to real-world problems. <br>
 
-When I’m not analyzing data, learning new technologies, or building dreams, you’ll find me watching football, playing Scrabble, reading, volunteering, or spending quality time with my amazing wife, Ahenkan ❤️.
+When I’m not supporting systems, enabling learning, or driving transformation, I enjoy watching football, playing Scrabble, reading, volunteering, and spending quality time with my amazing wife, Ahenkan ❤️.
 
+---
 
 ## 🛠️ Techinical Skills
 
+![Office 365](https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM-6DB33F?style=for-the-badge&logo=crm&logoColor=white)
+![LMS](https://img.shields.io/badge/LMS-0052CC?style=for-the-badge&logo=knowledgebase&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
